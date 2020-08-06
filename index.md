@@ -24,10 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Test](./doc/_post/2016-05-16-NSString的常用方法.md)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Test](https://github.com/ly918/ly918.github.io/blob/master/doc/_posts/2016-05-16-NSString%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
 
 ### Jekyll Themes
 
